@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.box {
+    position: absolute;
+    background-color: grey;
+    margin: 20px;
+}
+
+button, .slider {
+    display: block;
+    margin: 10px
+}
